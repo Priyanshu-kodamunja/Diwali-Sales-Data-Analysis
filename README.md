@@ -1,12 +1,10 @@
 🎇 Diwali Sales Data Analysis
 
 📊 Project Overview:
-
 This project focuses on analyzing Diwali sales data to uncover valuable business insights and trends.
 The main goal is to understand customer purchasing behavior and improve sales strategies through data analysis and visualization.
 
 🎯 Objectives:
-
 Clean and preprocess raw Diwali sales data
 Perform Exploratory Data Analysis (EDA) using Python
 Identify top-performing product categories and customer segments
