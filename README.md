@@ -40,9 +40,8 @@ Food, Clothing, and Electronics were the top-selling categories.
 📂 Project Structure:
 
 Jupter Notebook File: https://github.com/Priyanshu-kodamunja/Diwali-Sales-Data-Analysis/blob/main/Diwali%20Sales%20Data%20Analysis.ipynb
-Diwali_Sales_Analysis/
 
- Dataset Used : https://github.com/Priyanshu-kodamunja/Diwali-Sales-Data-Analysis/blob/main/Diwali%20Sales%20Data.csv
+Dataset Used : https://github.com/Priyanshu-kodamunja/Diwali-Sales-Data-Analysis/blob/main/Diwali%20Sales%20Data.csv
 
 🖼 Sample Visualizations:
 
