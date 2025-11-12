@@ -33,8 +33,9 @@ The IT, Healthcare, and Aviation sectors had higher purchase counts.
 Food, Clothing, and Electronics were the top-selling categories.
 
 📂 Project Structure
-https://github.com/Priyanshu-kodamunja/Diwali-Sales-Data-Analysis/blob/main/Diwali%20Sales%20Data%20Analysis.ipynb
+Jupter Notebook File: https://github.com/Priyanshu-kodamunja/Diwali-Sales-Data-Analysis/blob/main/Diwali%20Sales%20Data%20Analysis.ipynb
 Diwali_Sales_Analysis/
+ Dataset Used : https://github.com/Priyanshu-kodamunja/Diwali-Sales-Data-Analysis/blob/main/Diwali%20Sales%20Data.csv
 │
 ├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook file
 ├── Diwali_Sales_Data.csv         # Dataset used
